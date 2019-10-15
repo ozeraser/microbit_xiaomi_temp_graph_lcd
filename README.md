@@ -1,6 +1,6 @@
 # microbit_xiaomi_temp_graph_lcd
 
-![Microbit with lcd showing temp](http://www.l8ter/com/microtemp.jpg)
+![Microbit with lcd showing temp](http://www.l8ter.com/microtemp.jpg)
 
 The micro:bit finds Xiaomi Bluetooth Temperature Sensors, and graphs them to a Waveshare 1.8" LCD https://www.waveshare.com/wiki/1.8inch_LCD_for_micro:bit
 
